@@ -38,12 +38,16 @@
 # Notes:
 # - Assurez-vous que l'événement avec l'ID spécifié existe sur la carte.
 # - Le clone aura les mêmes pages d'événement que l'original.
+# - Utiliser le script sur des événements fixe, immobile ou invisible.
 #
 # Crédits:
 # Si vous utilisez ce script dans votre projet, merci de créditer Phoenixnoir.
 #
 # Lien:
 # https://github.com/phoenixnoirdev/RpgMakerXp_Asset
+#
+# Wiki:
+# https://github.com/phoenixnoirdev/RpgMakerXp_Asset/wiki/EventClone
 #==============================================================================
 
 
